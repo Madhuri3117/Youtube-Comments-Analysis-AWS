@@ -1,7 +1,12 @@
-yt-comment-sentiment-analysis-building
-==============================
+📌 Project Overview
 
-A small crome plugin to detech youtube comment sentiments
+YouTube Comment Sentiment Analysis is a machine learning-based project designed to automatically analyze and classify the sentiment of comments from YouTube videos. This tool helps you understand how viewers are reacting to a video by categorizing comments into sentiment classes (e.g., positive, negative, neutral) and provides insights into audience perception. 
+GitHub
+
+The project is structured using a well-organized data science template that separates data handling, feature engineering, model training, and visualization into clear components. It includes scripts and tools for preparing data, training models, and using the trained models to predict sentiment for new comment data. 
+GitHub
+
+The codebase follows standard practices for reproducible workflows, with folders for raw and processed data, notebooks for exploratory analysis, model artifacts, visualization routines, and source code for data pipelines. This modular layout makes it easy to extend the project, improve models, or integrate additional functionality like sentiment dashboards or browser plugins.
 
 Project Organization
 ------------
